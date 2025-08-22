@@ -1,0 +1,9 @@
+
+    body{
+        overflow-x: hidden;
+    }
+
+    .text_stroke{
+        -webkit-text-stroke-width: 1px;
+      -webkit-text-stroke-color: white;
+    }
